@@ -124,4 +124,10 @@ webpack.config.js
 
 Задание 2.
 
+Первоначальная схема:
+
 https://github.com/SergG-practicum/architecture-draw-io/blob/main/arch_SergG_sprint1_task2.drawio
+
+Схема с исправлением замечаний по ревью:
+
+https://github.com/SergG-practicum/architecture-draw-io/blob/main/arch_SergG_sprint1_task2_fix_after_review.drawio
